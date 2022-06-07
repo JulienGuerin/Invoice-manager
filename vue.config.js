@@ -5,5 +5,6 @@ module.exports = {
         entry: 'src/main.js',
         title: 'Invoice Manager',
       },
-    }
+    },
+    publicPath: '/Invoice-manager/'
   }
